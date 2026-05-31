@@ -1,0 +1,21 @@
+# Power BI files with credentials
+*.pbix
+
+# Environment files
+.env
+*.env
+
+# Local config files
+config/local_settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
