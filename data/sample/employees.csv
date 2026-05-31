@@ -1,0 +1,21 @@
+employee_id,employee_name,department,job_role,hire_date,monthly_income,is_active
+101,Rahul Sharma,Inbound Support,Support Agent,2022-03-15,32000,1
+102,Priya Patel,Technical Helpdesk,Senior Agent,2021-07-20,38000,1
+103,Amit Singh,Billing & Accounts,Support Agent,2023-01-10,30000,1
+104,Sneha Mehta,Enterprise Support,Team Lead,2020-05-12,52000,1
+105,Vikram Joshi,Inbound Support,Support Agent,2022-11-08,31000,1
+106,Anita Desai,Technical Helpdesk,Support Agent,2023-03-22,30000,1
+107,Rohan Gupta,Billing & Accounts,Senior Agent,2021-09-14,36000,1
+108,Pooja Nair,Enterprise Support,Support Agent,2022-06-30,33000,1
+109,Karan Malhotra,Inbound Support,Support Agent,2023-05-18,29000,1
+110,Deepika Rao,Chat & Email,Senior Agent,2021-02-28,37000,1
+111,Suresh Kumar,Technical Helpdesk,Support Agent,2022-08-05,31000,1
+112,Meera Shah,Billing & Accounts,Team Lead,2019-11-20,55000,1
+113,Arjun Verma,Enterprise Support,Support Agent,2023-07-01,30000,1
+114,Kavya Reddy,Chat & Email,Support Agent,2022-04-15,31000,1
+115,Nikhil Tiwari,Inbound Support,Senior Agent,2021-06-10,36000,1
+116,Divya Kapoor,Quality Assurance,QA Analyst,2020-09-25,42000,1
+117,Rajesh Pandey,Technical Helpdesk,Support Agent,2023-02-14,30000,1
+118,Sunita Jain,Chat & Email,Support Agent,2022-10-07,31000,1
+119,Mohit Agarwal,Billing & Accounts,Support Agent,2023-04-20,29000,1
+120,Lakshmi Iyer,Quality Assurance,Senior QA,2021-08-17,45000,1
