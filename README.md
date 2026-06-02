@@ -212,13 +212,9 @@ automation/
 *Gunjan Khatri*
 Data Analyst | Power BI Developer | Azure Data Factory
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gunjan-khatri-00b1242ba)
+
 [
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-
-](https://linkedin.com/in/gunjan-khatri-00b1242ba)
-[
-
 ![GitHub](https://img.shields.io/badge/GitHub-Follow-black)
 
 ](https://github.com/gunjannkhatri)
