@@ -110,28 +110,26 @@ Power Power BI Automate Robots (Alerts) (PDF Reports)
 | 📊 Executive Overview | C-suite KPI summary |
 | 📞 Call Performance | Call volume, AHT, abandonment |
 | 🎫 Ticket & SLA | SLA compliance, breach tracking |
-| 👤 Agent Profile | Individual drill-through scorecard |
-
 ### Screenshots
 
 
 
-![Leaderboard](powerbi/screenshots/page1_leaderboard.png)
+![Leaderboard](powerbi/screenshots/page1.png)
 
 
 
 
-![Executive Overview](powerbi/screenshots/page2_executive.png)
+![Executive Overview](powerbi/screenshots/page2.png)
 
 
 
 
-![Call Performance](powerbi/screenshots/page3_call_performance.png)
+![Call Performance](powerbi/screenshots/page3.png)
 
 
 
 
-![Ticket SLA](powerbi/screenshots/page4_ticket_sla.png)
+![Ticket SLA](powerbi/screenshots/page4.png)
 
 
 
